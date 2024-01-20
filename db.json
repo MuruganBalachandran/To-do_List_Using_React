@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "Breakfast"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "item": "HomeWork"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "Lunch"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Movie"
+    },
+    {
+      "id": "5",
+      "checked": false,
+      "item": "Exercise"
+    }
+  ]
+}
